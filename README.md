@@ -4,7 +4,7 @@ A modern and fully responsive landing page built using HTML and CSS, inspired by
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/repo-name/
+🔗[ https://your-username.github.io/repo-name/](https://snehabanik.github.io/cohort-landing-page/)
 
 ## 📸 Preview
 
